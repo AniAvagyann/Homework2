@@ -1,7 +1,7 @@
 //1
 
-let a = 14
-let b = 5
+let a = +prompt('enter number');
+let b = +prompt('enter number');
 
 alert(a+b);
 alert(a-b);
