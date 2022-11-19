@@ -18,8 +18,8 @@ console.log(hello);
 
 //3
 
-let number = prompt("Enter a number");
-if(number < 0) {
+let num = prompt("Enter a number");
+if(num < 0) {
     alert("yes")
 }
 else {
@@ -28,8 +28,8 @@ else {
 
 //4
 
-let number = prompt('enter your number');
-if(number % 2 === 0) {
+let numberr = prompt('enter your number');
+if(numberr % 2 === 0) {
     alert("even");
 }
 else{
